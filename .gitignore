@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.env
+*.log
+
+# SvelteKit
+.svelte-kit/
+build/
+dist/
+
+# macOS cruft
+.DS_Store
+
+# Editor configs
+.vscode/
+.idea/
